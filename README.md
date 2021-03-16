@@ -13,7 +13,7 @@ This project was dedicated to self-led learning opportunities. When learning new
 - animations
 
 ## Setup and Use
-#### [Click here if you just want to see the deployed site](https://taylulz.github.io/catstone)
+#### [Click here if you just want to see the deployed site](https://taylulz.github.io/fullstack-cats/)
 
 TECH STACK used to make FULL STACK CATS:
 Node
