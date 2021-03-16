@@ -2,7 +2,7 @@
   "name": "catstone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zahnen.github.io/catstone",
+  "homepage": "http://taylulz.github.io/fullstack-cats",
   "dependencies": {
     "@popperjs/core": "^2.9.0",
     "@react-three/drei": "^3.9.0",
