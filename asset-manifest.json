@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fullstack-cats/static/css/main.5993d004.chunk.css",
-    "main.js": "/fullstack-cats/static/js/main.c0f86a21.chunk.js",
-    "main.js.map": "/fullstack-cats/static/js/main.c0f86a21.chunk.js.map",
+    "main.js": "/fullstack-cats/static/js/main.f0d88907.chunk.js",
+    "main.js.map": "/fullstack-cats/static/js/main.f0d88907.chunk.js.map",
     "runtime-main.js": "/fullstack-cats/static/js/runtime-main.0e98c8af.js",
     "runtime-main.js.map": "/fullstack-cats/static/js/runtime-main.0e98c8af.js.map",
     "static/css/2.3406d7a6.chunk.css": "/fullstack-cats/static/css/2.3406d7a6.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.3406d7a6.chunk.css",
     "static/js/2.4f83ad89.chunk.js",
     "static/css/main.5993d004.chunk.css",
-    "static/js/main.c0f86a21.chunk.js"
+    "static/js/main.f0d88907.chunk.js"
   ]
 }
