@@ -6,9 +6,14 @@ This project was dedicated to self-led learning opportunities. When learning new
 
 ### Features Explored
 - useEffect component, used to make multiple different API calls
-- hooks used to manage local state
+- Hooks used to manage local state
 - SPA routing
+- How to deploy React app from cli only
+- Bootstrap 5
+- animations
 
+## Setup and Use
+#### [Click here if you just want to see the deployed site](https://taylulz.github.io/catstone)
 
 TECH STACK used to make FULL STACK CATS:
 Node
